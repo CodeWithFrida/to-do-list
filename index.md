@@ -1,7 +1,13 @@
-<header>
-    <h1>To Do List</h1>
-  </header>
-  <div class="container">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>FridaD. | To Do List</title>
+<link rel="stylesheet" href="todo.css" />
+</head>
+<body>
+
+<div class="container">
     <form>
       <input type="text" class="todo-input">
       <button type="submit" class="todo-button">
@@ -16,9 +22,9 @@
       </div>
     </form>
    </div>
-  
-      <div class="todo-container">
+   <div class="todo-container">
         <ul class="todo-list"></ul>
-      </div>
-        
-  
+    </div>
+<script src="todo.js"></script>
+</body>
+</html>
