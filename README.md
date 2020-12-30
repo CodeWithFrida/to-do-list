@@ -1,1 +1,4 @@
-# To-Do List
+# To Do List
+
+Another small JS project, this time a To Do list.
+<img src="">
